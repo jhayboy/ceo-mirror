@@ -31,3 +31,26 @@ body {
     text-wrap: balance;
   }
 }
+
+
+body {
+  font-family: 'Roboto', sans-serif;
+  /* Replace with your desired font */
+}
+
+.bg-cover {
+  background-size: cover;
+}
+
+.bg-center {
+  background-position: center;
+}
+
+.bg-fixed {
+  background-attachment: fixed;
+}
+
+header {
+  backdrop-filter: blur(10px);
+  /* Adds blur effect to the background */
+}
