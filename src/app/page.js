@@ -20,7 +20,7 @@ export default function Page() {
           </nav>
         </header>
         <main className="pt-48 px-6">
-          <div className="bg-white bg-opacity-50 rounded-lg p-6 flex flex-col items-end">
+          <div className="bg-black bg-opacity-50 rounded-lg p-6 flex flex-col items-center">
             <h1 className="text-3xl font-bold mb-4">Give Your Space That Extra Modern Look</h1>
             <p className="text-lg ">Having the best reflection of you and your space is all that matters</p>
           </div>
