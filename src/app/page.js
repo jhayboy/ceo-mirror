@@ -12,7 +12,7 @@ export default function Page() {
         <header className="bg-transparent fixed w-full z-50">
           <nav className="flex items-center justify-between px-6 py-4">
             <div className="text-white text-xl font-bold">Ceo Mirror</div>
-            <div className="text-white hidden lg:flex gap-4">
+            <div className="text-white lg:flex gap-4">
               <Link href="/Terms&Conditions">About</Link>
               <Link href="/Contact">Contact</Link>
               
